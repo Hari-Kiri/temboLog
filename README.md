@@ -1,0 +1,2 @@
+# temboLog
+Go custom logging.
