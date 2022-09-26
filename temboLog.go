@@ -1,4 +1,4 @@
-package tembolog
+package temboLog
 
 import (
 	"log"
